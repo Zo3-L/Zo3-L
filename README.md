@@ -1,6 +1,6 @@
 
 
-### **Full-stack Software Engineer**
+### **Full-stack Developer**
 
 👋 Hi! Welcome to my gitHub! My name is Zoe and I am a full-stack software engineer. As a career changer, I'm passionate about finding new ideas, connecting the dots, and leveraging cross-disciplinary skillset to design and deliver innovative products.
 
