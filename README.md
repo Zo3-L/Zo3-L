@@ -7,5 +7,5 @@
 - 💬 Ask me about career change, FinTech econsystem, startup experience and how to make a killer tofu scramble
 - ⚡ Fun fact: I grew up in four different countries
 - :evergreen_tree: Portfolio: Check out my work here: https://www.zoezliu.com/
-- 📫 How to reach me: send me an email @ zliu2756@gmail.com
+- 📫 How to reach me: send me an email @ zoezyliu@gmail.com
 - 😄 Pronouns: she/her/hers
