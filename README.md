@@ -1,6 +1,6 @@
 
 
-### **Product Manager / Full-stack Developer**
+### **Product Manager / Full-Stack Developer**
 
 👋 Hi there and welcome to my gitHub! My name is Zoe. I am an ex-Wall Street banker turned tech product manager / full-stack developer. I'm passionate about finding new ideas, connecting the dots, and leveraging cross-disciplinary skillset to design and deliver innovative products.
 
