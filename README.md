@@ -1,6 +1,6 @@
 
 
-### **Product Manager **
+### **Product Manager ** ###
 
 👋 Hi there and welcome to my gitHub! My name is Zoe and I'm a FinTech product manager. I'm passionate about finding new ideas, connecting the dots, and leveraging cross-disciplinary skillset to design and deliver innovative products.
 
